@@ -15,4 +15,5 @@ About the currency for the price column: it is Price ($)
 And About the columns x,y, and z they are diamond measurements as (( x: length in mm, y: width in mm,z: depth in mm ))
 
 <H2>Notes</H2>
+
 * I changed one column name (table) because it's a keyword in sql server.
