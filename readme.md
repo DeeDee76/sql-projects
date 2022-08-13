@@ -1,5 +1,5 @@
 <H1>Project Info</H1>
-I'm using the diamond prices kaggle data and sql to create metrics on the prices of diamonds.
+I'm using the diamond prices kaggle data and sql to create metrics on the prices of diamonds. Visit this repository's <a href="https://github.com/DeeDee76/sql-diamond-prices/wiki">Wiki</a> for detailed explanation of the ETL and presentation process.
 
 <H2>References</H2>
 Diamonds Prices csv file</BR>
