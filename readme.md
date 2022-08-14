@@ -1,10 +1,15 @@
 <H1>Project Info</H1>
 I'm using the diamond prices kaggle data and sql to create metrics on the prices of diamonds. Visit this repository's <a href="https://github.com/DeeDee76/sql-diamond-prices/wiki">Wiki</a> for a detailed explanation of the steps.
 
-<H2>References</H2>
+<H2>Acknowledgments</H2>
 Diamonds Prices csv file</BR>
 Author: Ms. Nancy Al Aswad</BR>
-Source: https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices
+Source(s):</BR>
+https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices </BR>
+https://www.statista.com/statistics/829035/natural-diamonds-average-price-by-weight/
+
+License : CC BY 4.0.
+The dataset published to reuse in google research dataset
 
 <H2>Data Details</H2>
 
