@@ -2,15 +2,15 @@
 I'm using the diamond prices kaggle data and sql to create metrics on the prices of diamonds. Visit this repository's <a href="https://github.com/DeeDee76/sql-diamond-prices/wiki">Wiki</a> for a detailed explanation of the steps.
 
 <H2>Acknowledgments</H2>
-Diamonds Prices csv file</BR>
+Natural diamonds average price by weight 2020</BR>
 Author(s):</BR>
 Ms. Nancy Al Aswad</BR>
 M. Garside</BR>
-https://www.statista.com/aboutus/our-research-commitment/913/m-garside </BR>
 
 Source(s):</BR>
 https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices </BR>
 https://www.statista.com/statistics/829035/natural-diamonds-average-price-by-weight/</BR>
+https://www.statista.com/aboutus/our-research-commitment/913/m-garside </BR>
 
 License : CC BY 4.0</BR>
 The dataset published to reuse in google research dataset</BR>
