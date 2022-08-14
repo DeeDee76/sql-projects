@@ -3,13 +3,17 @@ I'm using the diamond prices kaggle data and sql to create metrics on the prices
 
 <H2>Acknowledgments</H2>
 Diamonds Prices csv file</BR>
-Author: Ms. Nancy Al Aswad</BR>
+Author(s):</BR>
+Ms. Nancy Al Aswad</BR>
+M. Garside</BR>
+https://www.statista.com/aboutus/our-research-commitment/913/m-garside </BR>
+
 Source(s):</BR>
 https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices </BR>
-https://www.statista.com/statistics/829035/natural-diamonds-average-price-by-weight/
+https://www.statista.com/statistics/829035/natural-diamonds-average-price-by-weight/</BR>
 
-License : CC BY 4.0.
-The dataset published to reuse in google research dataset
+License : CC BY 4.0</BR>
+The dataset published to reuse in google research dataset</BR>
 
 <H2>Data Details</H2>
 
